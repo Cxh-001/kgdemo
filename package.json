@@ -2,7 +2,7 @@
   "name": "mydemo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Cxh-001.github.io/test",
+  "homepage": "http://Cxh-001.github.io/kgdemo",
   "dependencies": {
     "@babel/core": "7.7.4",
     "@svgr/webpack": "4.3.3",
