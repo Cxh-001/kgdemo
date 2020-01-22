@@ -1,0 +1,33 @@
+
+.up{
+  text-align: center;
+}
+.left{
+  display:inline-block;
+  float:left;
+  width:50%;
+}
+.header{
+  text-align: center;
+  padding: 30px;
+}
+.right{
+  border: 1px solid #ddd;
+  width:50%;
+  display:inline-block;
+  float:right;
+  height:560px;
+}
+.p1{
+  padding: 30px;
+  font-size: 30px;
+  color: crimson;
+}
+.p2{
+  padding: 30px;
+  font-size: 20px;
+}
+.p3{
+  padding: 30px;
+  font-size: 20px;
+}
