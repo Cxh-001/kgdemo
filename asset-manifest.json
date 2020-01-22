@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kgdemo/static/css/main.d2b4f029.chunk.css",
-    "main.js": "/kgdemo/static/js/main.1bafe413.chunk.js",
-    "main.js.map": "/kgdemo/static/js/main.1bafe413.chunk.js.map",
+    "main.js": "/kgdemo/static/js/main.fe657143.chunk.js",
+    "main.js.map": "/kgdemo/static/js/main.fe657143.chunk.js.map",
     "runtime-main.js": "/kgdemo/static/js/runtime-main.1912bafd.js",
     "runtime-main.js.map": "/kgdemo/static/js/runtime-main.1912bafd.js.map",
     "static/css/2.2bc43135.chunk.css": "/kgdemo/static/css/2.2bc43135.chunk.css",
     "static/js/2.583e029c.chunk.js": "/kgdemo/static/js/2.583e029c.chunk.js",
     "static/js/2.583e029c.chunk.js.map": "/kgdemo/static/js/2.583e029c.chunk.js.map",
     "index.html": "/kgdemo/index.html",
-    "precache-manifest.c6c14a0c69f7460197528bfcb153bd55.js": "/kgdemo/precache-manifest.c6c14a0c69f7460197528bfcb153bd55.js",
+    "precache-manifest.bed6340f039308ac63efcf3532e7b7d0.js": "/kgdemo/precache-manifest.bed6340f039308ac63efcf3532e7b7d0.js",
     "service-worker.js": "/kgdemo/service-worker.js",
     "static/css/2.2bc43135.chunk.css.map": "/kgdemo/static/css/2.2bc43135.chunk.css.map",
     "static/css/main.d2b4f029.chunk.css.map": "/kgdemo/static/css/main.d2b4f029.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.2bc43135.chunk.css",
     "static/js/2.583e029c.chunk.js",
     "static/css/main.d2b4f029.chunk.css",
-    "static/js/main.1bafe413.chunk.js"
+    "static/js/main.fe657143.chunk.js"
   ]
 }
