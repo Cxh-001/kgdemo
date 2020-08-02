@@ -67,6 +67,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
+### RE_tag实体识别
+训练20个epoch，F1值0.7698
 | type | precision | recall |  F1 |
 |----------|-----|----|----|
 | 国家      |  0.733   |  0.795   |     0.763   |
