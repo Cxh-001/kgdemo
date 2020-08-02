@@ -68,7 +68,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 ### RE_tag实体识别
-训练20个epoch，F1值0.7698
+使用RE_tag进行实体识别，训练了20个epoch，F1值为0.7698
+
 | type | precision | recall |  F1 |
 |----------|-----|----|----|
 | 国家      |  0.733   |  0.795   |     0.763   |
@@ -86,3 +87,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 | 武器装备      |  0.716   |  0.806   |     0.758   |
 | 奖项      |  1.000   |  1.000   |     1.000   |
 | 职位      |  0.739   |  0.815   |     0.775   |
+
