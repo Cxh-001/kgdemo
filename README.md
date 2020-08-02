@@ -66,3 +66,21 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+| type | precision | recall |  F1 |
+|----------|-----|----|
+| 国家      |  0.733   |  0.795   |     0.763   |
+| 代号名      |  0.714   |  0.500   |     0.588   |
+| 时间      |  0.651   |  0.718   |     0.683   |
+| 学历      |  0.500   |  0.250   |     0.333   |
+| 人物      |  0.947   |  0.964   |     0.955   |
+| 数值      |  0.617   |  0.638   |     0.627   |
+| 舰艇舷号      |  0.762   |  0.842   |     0.800   |
+| 日期      |  1.000   |  0.667   |     0.800   |
+| 军衔      |  0.739   |  0.850   |     0.791   |
+| 组织机构      |  0.751   |  0.678   |     0.713   |
+| 领域      |  0.556   |  0.278   |     0.370   |
+| 地点      |  0.562   |  0.624   |     0.592   |
+| 武器装备      |  0.716   |  0.806   |     0.758   |
+| 奖项      |  1.000   |  1.000   |     1.000   |
+| 职位      |  0.739   |  0.815   |     0.775   |
