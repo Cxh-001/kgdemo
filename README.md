@@ -68,7 +68,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 | type | precision | recall |  F1 |
-|----------|-----|----|
+|----------|-----|----|----|
 | 国家      |  0.733   |  0.795   |     0.763   |
 | 代号名      |  0.714   |  0.500   |     0.588   |
 | 时间      |  0.651   |  0.718   |     0.683   |
