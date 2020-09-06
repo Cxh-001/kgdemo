@@ -88,3 +88,36 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 |  奖项   | 2   |  2   |  2      |  1.000   |  1.000   |     1.000   |
 |  职位   | 529   |  716   |  649      |  0.739   |  0.815   |     0.775   |
 
+| 实体类型1    | 实体类型2      | 冲突次数 |
+|------------|--------------|----------|
+|  POS  |ORG  |763  |
+|  ORG  |ORG  |867  |
+|  CON  |POS  |59  |
+|  ORG  |POS  |1171  |
+|  ORG  |CON  |924  |
+|  ORG  |LOC  |400  |
+|  LOC  |ORG  |22  |
+|  CON  |LOC  |10  |
+|  POS  |CON  |26  |
+|  CON  |ORG  |165  |
+|  ARM  |CON  |8  |
+|  ARM  |ARM  |123  |
+|  ARM  |NAME  |17  |
+|  CON  |ARM  |3  |
+|  AREA  |POS  |10  |
+|  POS  |ARM  |2  |
+|  POS  |LOC  |5  |
+|  CON  |CON  |3  |
+|  ARM  |SHIP  |3  |
+|  LOC  |LOC  |8  |
+|  POS  |AREA  |5  |
+|  ARM  |POS  |2  |
+|  LOC  |POS  |5  |
+|  POS  |POS  |1  |
+|  ARM  |ORG  |9  |
+|  POS  |PER  |1  |
+|  RANK  |POS  |1  |
+|  PER  |POS  |1  |
+|  PER  |RANK  |1  |
+|  ORG  |PER  |3  |
+|  AREA  |ORG  |1  |
